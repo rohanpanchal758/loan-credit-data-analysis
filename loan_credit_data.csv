@@ -1,0 +1,501 @@
+applicant_id,age,annual_income,loan_amount,credit_score,employment_type,loan_purpose,loan_status
+SYN0001,61,344902,178393,707,Salaried,Business,Pending
+SYN0002,26,373306,57164,794,Business owner,Business,Approved
+SYN0003,22,1999593,667889,666,Self-employed,Education,Pending
+SYN0004,65,1667114,275772,819,Business owner,Vehicle,Rejected
+SYN0005,27,1833530,494331,661,Salaried,Personal,Approved
+SYN0006,55,1827688,203709,732,Salaried,Business,Pending
+SYN0007,44,531735,79871,717,Self-employed,Home,Rejected
+SYN0008,45,2141740,1580217,503,Contract,Vehicle,Approved
+SYN0009,34,539483,229451,642,Contract,Vehicle,Approved
+SYN0010,61,1600140,284620,679,Self-employed,Home,Approved
+SYN0011,41,1362986,347365,730,Business owner,Personal,Approved
+SYN0012,62,839246,179303,650,Business owner,Business,Rejected
+SYN0013,37,1915207,340102,661,Business owner,Home,Approved
+SYN0014,30,2010667,1663831,688,Self-employed,Personal,Approved
+SYN0015,54,288154,110058,656,Contract,Medical,Approved
+SYN0016,42,1471028,1001527,616,Salaried,Medical,Approved
+SYN0017,37,2369371,1301768,732,Self-employed,Vehicle,Approved
+SYN0018,31,1599609,284603,625,Salaried,Vehicle,Rejected
+SYN0019,36,1250288,215165,754,Salaried,Business,Approved
+SYN0020,29,2233478,742592,728,Self-employed,Business,Approved
+SYN0021,48,1083688,886747,784,Self-employed,Business,Approved
+SYN0022,49,1279791,404508,687,Salaried,Business,Approved
+SYN0023,35,270160,70679,712,Self-employed,Vehicle,Approved
+SYN0024,25,1408018,499287,698,Self-employed,Medical,Approved
+SYN0025,57,1259204,1743443,665,Business owner,Vehicle,Pending
+SYN0026,48,2198843,277210,705,Business owner,Medical,Approved
+SYN0027,27,1928716,508307,690,Salaried,Personal,Approved
+SYN0028,32,2180402,208093,732,Contract,Business,Approved
+SYN0029,27,301898,445085,712,Salaried,Education,Approved
+SYN0030,46,930538,459386,658,Salaried,Personal,Approved
+SYN0031,39,2281247,361120,694,Business owner,Home,Pending
+SYN0032,41,450312,313638,712,Salaried,Business,Rejected
+SYN0033,31,2369987,244851,712,Salaried,Personal,Pending
+SYN0034,28,406688,269794,700,Self-employed,Business,Pending
+SYN0035,54,1333730,379445,694,Contract,Vehicle,Pending
+SYN0036,50,544267,86896,755,Contract,Home,Rejected
+SYN0037,55,2361834,781924,787,Self-employed,Education,Approved
+SYN0038,49,272812,340771,599,Contract,Medical,Approved
+SYN0039,27,1349250,106117,688,Self-employed,Education,Approved
+SYN0040,42,1347228,576639,652,Self-employed,Home,Rejected
+SYN0041,26,1400480,137439,702,Business owner,Medical,Approved
+SYN0042,49,280557,59768,598,Business owner,Vehicle,Pending
+SYN0043,58,2042656,373232,590,Self-employed,Home,Rejected
+SYN0044,43,1286603,791717,803,Self-employed,Personal,Pending
+SYN0045,60,1232948,1727484,740,Self-employed,Medical,Approved
+SYN0046,42,1280888,163346,565,Business owner,Home,Approved
+SYN0047,51,1077069,1015325,619,Self-employed,Education,Rejected
+SYN0048,22,1911287,195585,787,Self-employed,Vehicle,Rejected
+SYN0049,43,1628943,533778,726,Business owner,Vehicle,Approved
+SYN0050,23,2062692,707829,654,Salaried,Business,Approved
+SYN0051,28,1037248,507239,838,Business owner,Medical,Approved
+SYN0052,63,1767655,1443007,691,Self-employed,Business,Rejected
+SYN0053,41,1499642,1448575,634,Salaried,Education,Approved
+SYN0054,33,1830250,779923,725,Business owner,Vehicle,Approved
+SYN0055,46,1514543,500770,709,Salaried,Personal,Approved
+SYN0056,49,2384019,761737,603,Self-employed,Vehicle,Pending
+SYN0057,53,631694,837625,695,Contract,Education,Rejected
+SYN0058,22,1266944,355463,745,Salaried,Medical,Approved
+SYN0059,57,1850522,561672,749,Self-employed,Home,Rejected
+SYN0060,48,977722,1136236,769,Self-employed,Business,Approved
+SYN0061,36,2154539,537213,594,Salaried,Personal,Approved
+SYN0062,60,2110297,2040928,522,Business owner,Education,Approved
+SYN0063,61,2272547,1201745,594,Contract,Vehicle,Approved
+SYN0064,41,820382,250820,727,Salaried,Medical,Pending
+SYN0065,34,1980082,1187938,667,Salaried,Personal,Rejected
+SYN0066,58,1835433,787691,694,Salaried,Personal,Approved
+SYN0067,47,2287782,964014,625,Self-employed,Personal,Pending
+SYN0068,31,775309,1170138,695,Business owner,Personal,Approved
+SYN0069,58,592101,192291,717,Salaried,Vehicle,Approved
+SYN0070,34,1610890,845085,659,Business owner,Personal,Approved
+SYN0071,37,2212609,332810,841,Salaried,Home,Approved
+SYN0072,62,370149,259044,741,Salaried,Business,Rejected
+SYN0073,30,769409,169946,648,Self-employed,Vehicle,Rejected
+SYN0074,31,926883,276699,672,Salaried,Vehicle,Approved
+SYN0075,57,1903689,881855,778,Business owner,Home,Approved
+SYN0076,65,747741,643423,735,Contract,Vehicle,Rejected
+SYN0077,55,1794286,389499,621,Business owner,Home,Rejected
+SYN0078,48,2168286,1876565,796,Contract,Business,Approved
+SYN0079,62,2267935,1781690,683,Contract,Home,Rejected
+SYN0080,38,1262837,1245061,638,Business owner,Personal,Pending
+SYN0081,42,2313271,812691,629,Salaried,Vehicle,Approved
+SYN0082,59,282576,100084,694,Contract,Medical,Approved
+SYN0083,47,1247991,1404556,673,Business owner,Vehicle,Approved
+SYN0084,35,1260495,659805,621,Business owner,Business,Approved
+SYN0085,54,2024692,2358496,640,Contract,Vehicle,Approved
+SYN0086,35,1047757,611894,778,Salaried,Medical,Rejected
+SYN0087,32,1147582,629861,661,Self-employed,Vehicle,Approved
+SYN0088,27,1482547,238158,514,Self-employed,Medical,Approved
+SYN0089,55,1390545,78587,595,Self-employed,Personal,Approved
+SYN0090,27,1432605,973730,656,Salaried,Home,Approved
+SYN0091,37,718516,470172,604,Business owner,Education,Rejected
+SYN0092,30,597274,174205,694,Contract,Personal,Approved
+SYN0093,59,1835421,978453,664,Self-employed,Business,Approved
+SYN0094,60,656215,485762,772,Salaried,Vehicle,Approved
+SYN0095,63,898745,339402,694,Salaried,Business,Approved
+SYN0096,51,376901,124112,692,Contract,Personal,Pending
+SYN0097,25,1349622,1360841,590,Self-employed,Home,Approved
+SYN0098,55,864906,348291,627,Self-employed,Education,Approved
+SYN0099,40,2081943,368862,641,Contract,Personal,Approved
+SYN0100,49,407188,387978,542,Salaried,Home,Rejected
+SYN0101,26,327012,332602,592,Self-employed,Business,Approved
+SYN0102,62,1406673,507058,639,Business owner,Personal,Pending
+SYN0103,26,1699454,723307,628,Business owner,Medical,Approved
+SYN0104,52,1919618,2357272,577,Contract,Home,Approved
+SYN0105,41,1595908,455037,625,Contract,Medical,Rejected
+SYN0106,55,1973285,321811,734,Business owner,Personal,Approved
+SYN0107,61,456475,193974,726,Business owner,Personal,Rejected
+SYN0108,28,1243686,701690,729,Salaried,Business,Approved
+SYN0109,47,1182462,1964552,809,Salaried,Education,Approved
+SYN0110,52,2374363,1792692,793,Contract,Personal,Pending
+SYN0111,36,846672,582929,689,Business owner,Personal,Approved
+SYN0112,42,250759,89132,654,Contract,Business,Rejected
+SYN0113,63,863254,557868,643,Business owner,Personal,Approved
+SYN0114,41,1241623,539815,758,Self-employed,Personal,Rejected
+SYN0115,23,2223806,1648999,617,Contract,Education,Rejected
+SYN0116,52,769515,668849,752,Salaried,Home,Approved
+SYN0117,49,2156495,125578,609,Salaried,Personal,Approved
+SYN0118,37,1907165,1428103,740,Contract,Business,Rejected
+SYN0119,45,2286600,200571,654,Contract,Vehicle,Approved
+SYN0120,35,2060208,471557,658,Salaried,Medical,Approved
+SYN0121,40,432900,64711,673,Salaried,Business,Approved
+SYN0122,47,952963,369549,750,Self-employed,Business,Rejected
+SYN0123,64,2327367,650279,700,Self-employed,Medical,Approved
+SYN0124,21,1446414,381298,782,Business owner,Vehicle,Approved
+SYN0125,58,2019680,1966108,714,Contract,Personal,Approved
+SYN0126,27,1839557,1255467,654,Self-employed,Medical,Approved
+SYN0127,39,1900129,152853,780,Salaried,Vehicle,Pending
+SYN0128,35,1158571,1352103,632,Contract,Medical,Approved
+SYN0129,63,647535,727737,801,Self-employed,Vehicle,Approved
+SYN0130,29,1477782,485686,718,Salaried,Education,Approved
+SYN0131,55,2344679,740149,684,Contract,Vehicle,Approved
+SYN0132,42,2204324,640377,811,Salaried,Education,Approved
+SYN0133,64,1774171,256870,770,Business owner,Medical,Approved
+SYN0134,64,1838136,1608073,697,Contract,Education,Approved
+SYN0135,51,1615758,978481,634,Salaried,Medical,Approved
+SYN0136,40,729374,59754,616,Business owner,Personal,Approved
+SYN0137,28,1224822,334508,642,Salaried,Medical,Rejected
+SYN0138,55,888116,1423470,730,Business owner,Personal,Approved
+SYN0139,60,1413315,147132,704,Business owner,Vehicle,Approved
+SYN0140,27,1744387,194641,759,Contract,Home,Approved
+SYN0141,50,1129636,1302305,710,Salaried,Education,Approved
+SYN0142,57,527771,631128,686,Self-employed,Education,Approved
+SYN0143,35,858887,55946,658,Contract,Business,Rejected
+SYN0144,37,701064,77032,850,Self-employed,Vehicle,Approved
+SYN0145,36,306190,56868,737,Contract,Home,Approved
+SYN0146,51,1758501,278702,738,Business owner,Education,Approved
+SYN0147,60,1505129,115327,758,Salaried,Medical,Approved
+SYN0148,27,2100435,92357,717,Business owner,Education,Approved
+SYN0149,25,1393500,1277598,634,Self-employed,Business,Rejected
+SYN0150,39,2360434,465984,672,Business owner,Home,Pending
+SYN0151,62,2043844,529185,585,Self-employed,Medical,Approved
+SYN0152,27,2029977,584542,752,Contract,Education,Approved
+SYN0153,64,521577,61188,714,Business owner,Education,Rejected
+SYN0154,56,1622635,911528,706,Salaried,Medical,Approved
+SYN0155,48,1446405,787455,751,Salaried,Personal,Approved
+SYN0156,35,1708484,1591662,736,Salaried,Vehicle,Approved
+SYN0157,57,2039827,2385135,837,Self-employed,Vehicle,Pending
+SYN0158,22,1386179,697987,714,Self-employed,Vehicle,Rejected
+SYN0159,21,840840,470252,786,Self-employed,Home,Rejected
+SYN0160,54,1817873,764910,735,Self-employed,Vehicle,Approved
+SYN0161,41,460657,63044,666,Salaried,Personal,Pending
+SYN0162,59,1977212,1124468,643,Business owner,Personal,Approved
+SYN0163,28,2281085,1343604,752,Contract,Home,Approved
+SYN0164,34,1125979,585863,708,Contract,Home,Approved
+SYN0165,21,2046298,448676,643,Business owner,Medical,Approved
+SYN0166,43,1905437,227428,680,Salaried,Personal,Approved
+SYN0167,25,2040548,1801935,673,Contract,Education,Rejected
+SYN0168,60,1757720,492753,754,Business owner,Personal,Approved
+SYN0169,58,569869,212673,688,Business owner,Home,Rejected
+SYN0170,53,2378893,782693,644,Salaried,Medical,Approved
+SYN0171,30,671193,101713,707,Self-employed,Home,Rejected
+SYN0172,32,2185960,2480465,723,Business owner,Business,Approved
+SYN0173,62,1565982,121603,599,Contract,Business,Rejected
+SYN0174,24,2367925,534172,707,Contract,Home,Approved
+SYN0175,44,561833,144682,632,Contract,Business,Approved
+SYN0176,23,1029533,548733,638,Business owner,Home,Approved
+SYN0177,49,1680482,403702,650,Salaried,Personal,Approved
+SYN0178,49,1766298,643270,688,Self-employed,Vehicle,Approved
+SYN0179,64,1643621,99548,629,Salaried,Medical,Approved
+SYN0180,59,1638221,397923,667,Self-employed,Vehicle,Approved
+SYN0181,40,780862,138834,666,Business owner,Education,Rejected
+SYN0182,63,2015895,88232,748,Salaried,Education,Approved
+SYN0183,34,2279568,194247,720,Contract,Business,Pending
+SYN0184,55,1652492,599659,735,Salaried,Education,Approved
+SYN0185,31,934321,141629,607,Self-employed,Personal,Approved
+SYN0186,60,2122940,551572,741,Contract,Personal,Approved
+SYN0187,33,2087999,640918,703,Contract,Education,Approved
+SYN0188,33,1288589,175983,614,Self-employed,Business,Rejected
+SYN0189,27,1435640,134049,669,Salaried,Personal,Approved
+SYN0190,26,2132167,161862,829,Self-employed,Personal,Approved
+SYN0191,53,1228924,135569,679,Contract,Medical,Rejected
+SYN0192,62,852575,200407,700,Contract,Personal,Rejected
+SYN0193,65,2207590,61012,700,Self-employed,Education,Approved
+SYN0194,56,706351,299183,682,Business owner,Home,Approved
+SYN0195,36,2157273,488665,762,Business owner,Business,Approved
+SYN0196,57,842204,50820,640,Self-employed,Education,Pending
+SYN0197,57,1025651,229545,629,Business owner,Business,Rejected
+SYN0198,53,1877681,232596,680,Salaried,Vehicle,Approved
+SYN0199,37,1737760,1496206,695,Salaried,Business,Approved
+SYN0200,42,425957,138748,784,Self-employed,Education,Rejected
+SYN0201,64,2247105,615612,793,Business owner,Vehicle,Approved
+SYN0202,33,1076637,711852,733,Salaried,Business,Rejected
+SYN0203,46,1302474,219581,712,Business owner,Medical,Pending
+SYN0204,42,762086,966353,746,Contract,Medical,Rejected
+SYN0205,49,1662022,2131227,667,Business owner,Vehicle,Rejected
+SYN0206,26,571043,481143,631,Business owner,Vehicle,Approved
+SYN0207,41,575833,205000,659,Salaried,Medical,Approved
+SYN0208,49,2115397,234842,772,Contract,Personal,Approved
+SYN0209,38,554745,475942,613,Salaried,Home,Rejected
+SYN0210,30,385957,80932,778,Business owner,Vehicle,Pending
+SYN0211,44,375833,406024,630,Business owner,Home,Approved
+SYN0212,57,1779099,1412227,709,Self-employed,Home,Approved
+SYN0213,22,2333142,543925,686,Self-employed,Business,Approved
+SYN0214,39,1079608,88824,740,Business owner,Medical,Approved
+SYN0215,49,1580448,1538014,764,Salaried,Education,Rejected
+SYN0216,65,1756208,304515,722,Self-employed,Education,Rejected
+SYN0217,36,350243,200019,610,Business owner,Business,Pending
+SYN0218,26,1537259,1053833,776,Salaried,Personal,Approved
+SYN0219,57,765658,205535,596,Salaried,Business,Approved
+SYN0220,61,781203,108104,720,Self-employed,Business,Rejected
+SYN0221,30,930621,168211,602,Contract,Home,Rejected
+SYN0222,37,1391131,208767,817,Self-employed,Home,Approved
+SYN0223,53,886737,377406,673,Self-employed,Business,Rejected
+SYN0224,23,580673,125598,602,Salaried,Education,Approved
+SYN0225,57,367028,336039,649,Business owner,Medical,Approved
+SYN0226,46,2142301,112823,847,Contract,Personal,Approved
+SYN0227,51,1095734,200647,650,Business owner,Vehicle,Rejected
+SYN0228,46,1794158,272683,785,Self-employed,Personal,Approved
+SYN0229,28,2125742,253028,838,Contract,Personal,Pending
+SYN0230,36,1613365,1361621,739,Self-employed,Education,Approved
+SYN0231,52,2331949,2136122,845,Business owner,Education,Approved
+SYN0232,34,444087,82433,712,Contract,Medical,Approved
+SYN0233,64,1438515,275437,567,Business owner,Personal,Rejected
+SYN0234,44,1920161,344553,746,Salaried,Business,Approved
+SYN0235,39,1860464,1653071,574,Salaried,Business,Pending
+SYN0236,28,645511,466755,652,Self-employed,Business,Rejected
+SYN0237,44,1074909,891769,670,Self-employed,Vehicle,Approved
+SYN0238,51,864702,590546,689,Business owner,Business,Approved
+SYN0239,41,1888170,1305079,625,Self-employed,Personal,Approved
+SYN0240,57,2231843,1595004,647,Contract,Home,Approved
+SYN0241,47,351766,189214,801,Contract,Business,Pending
+SYN0242,35,2255148,709580,666,Salaried,Personal,Pending
+SYN0243,30,372416,107616,715,Self-employed,Personal,Approved
+SYN0244,65,1961247,1332362,755,Self-employed,Medical,Rejected
+SYN0245,24,1109654,1053216,634,Self-employed,Business,Approved
+SYN0246,42,1348815,453207,681,Contract,Vehicle,Rejected
+SYN0247,56,1183160,674142,703,Contract,Personal,Pending
+SYN0248,41,1702986,1718085,589,Business owner,Vehicle,Rejected
+SYN0249,28,1894789,664365,676,Business owner,Vehicle,Pending
+SYN0250,49,2249404,618606,741,Contract,Medical,Rejected
+SYN0251,38,698129,665336,691,Self-employed,Education,Rejected
+SYN0252,61,460163,93292,710,Self-employed,Home,Pending
+SYN0253,64,261732,132806,563,Self-employed,Personal,Rejected
+SYN0254,62,1444793,727273,773,Self-employed,Home,Approved
+SYN0255,62,396440,233568,582,Self-employed,Home,Rejected
+SYN0256,46,1021447,657056,751,Business owner,Home,Rejected
+SYN0257,40,1645268,722464,616,Salaried,Business,Rejected
+SYN0258,50,1048709,743494,669,Contract,Personal,Approved
+SYN0259,62,1020975,94185,711,Contract,Education,Pending
+SYN0260,60,2033917,231902,608,Business owner,Home,Approved
+SYN0261,32,2242587,570192,753,Self-employed,Vehicle,Approved
+SYN0262,42,287964,97127,692,Contract,Home,Pending
+SYN0263,63,2192008,900220,632,Salaried,Vehicle,Rejected
+SYN0264,65,1477477,513154,554,Salaried,Education,Approved
+SYN0265,51,2148318,1617096,619,Self-employed,Business,Approved
+SYN0266,63,1277945,1299513,731,Self-employed,Home,Rejected
+SYN0267,54,1757435,345786,783,Business owner,Education,Rejected
+SYN0268,57,930118,595617,769,Self-employed,Medical,Approved
+SYN0269,34,621436,517122,715,Business owner,Personal,Approved
+SYN0270,57,2179355,1342556,623,Salaried,Personal,Rejected
+SYN0271,37,1153944,144979,600,Salaried,Home,Approved
+SYN0272,25,373105,97181,736,Business owner,Medical,Rejected
+SYN0273,62,1810602,1654235,552,Business owner,Home,Approved
+SYN0274,64,1698652,462151,736,Self-employed,Medical,Approved
+SYN0275,35,335358,535494,652,Salaried,Education,Pending
+SYN0276,36,1691899,247636,617,Business owner,Medical,Rejected
+SYN0277,28,1998422,115623,691,Salaried,Personal,Approved
+SYN0278,59,1266489,893611,714,Salaried,Business,Approved
+SYN0279,34,827771,353314,704,Salaried,Business,Approved
+SYN0280,59,1233647,200219,834,Contract,Business,Rejected
+SYN0281,35,1500392,633761,816,Business owner,Medical,Rejected
+SYN0282,64,2318784,230572,647,Business owner,Medical,Rejected
+SYN0283,45,1986192,678911,612,Contract,Education,Approved
+SYN0284,40,2182068,2408817,766,Self-employed,Personal,Approved
+SYN0285,56,1869147,263214,677,Self-employed,Vehicle,Approved
+SYN0286,26,456160,226599,713,Self-employed,Home,Pending
+SYN0287,25,1150233,961709,736,Self-employed,Education,Rejected
+SYN0288,33,2248739,907790,659,Salaried,Education,Approved
+SYN0289,56,1427236,803421,667,Contract,Personal,Rejected
+SYN0290,27,1583155,1604849,747,Business owner,Home,Approved
+SYN0291,57,852044,122523,768,Self-employed,Education,Approved
+SYN0292,33,1204768,923844,655,Contract,Business,Approved
+SYN0293,62,1319306,1074712,781,Contract,Education,Approved
+SYN0294,43,827028,1074073,670,Self-employed,Business,Approved
+SYN0295,62,381867,127941,780,Salaried,Personal,Pending
+SYN0296,29,525078,59585,657,Self-employed,Personal,Approved
+SYN0297,44,2266705,115983,772,Salaried,Business,Approved
+SYN0298,38,311901,232939,693,Contract,Education,Pending
+SYN0299,27,864521,374943,572,Salaried,Personal,Approved
+SYN0300,26,1943002,560043,670,Contract,Education,Rejected
+SYN0301,40,372894,74855,637,Salaried,Medical,Pending
+SYN0302,31,2336558,1439449,741,Salaried,Home,Approved
+SYN0303,54,1203710,548598,670,Salaried,Vehicle,Pending
+SYN0304,55,992267,709522,836,Salaried,Education,Approved
+SYN0305,58,1910574,1305258,715,Self-employed,Personal,Rejected
+SYN0306,64,1849967,636995,731,Contract,Medical,Pending
+SYN0307,26,465219,80427,721,Contract,Business,Rejected
+SYN0308,46,364259,286218,639,Contract,Vehicle,Approved
+SYN0309,56,2051301,664334,675,Business owner,Education,Approved
+SYN0310,25,1363956,423123,666,Salaried,Education,Rejected
+SYN0311,45,1752886,52723,756,Contract,Home,Pending
+SYN0312,29,1025978,634041,665,Salaried,Personal,Approved
+SYN0313,27,615888,98792,596,Salaried,Home,Rejected
+SYN0314,39,1866549,2396866,624,Business owner,Education,Rejected
+SYN0315,57,1836905,331981,666,Self-employed,Personal,Approved
+SYN0316,38,1497252,211315,761,Business owner,Education,Approved
+SYN0317,61,1060188,192071,636,Business owner,Business,Approved
+SYN0318,45,2086428,1415323,839,Contract,Education,Rejected
+SYN0319,40,1082432,236266,850,Contract,Medical,Approved
+SYN0320,61,1256801,343916,652,Business owner,Personal,Rejected
+SYN0321,44,1078022,1194267,737,Salaried,Medical,Approved
+SYN0322,50,2079013,340072,790,Self-employed,Personal,Pending
+SYN0323,64,823759,303777,689,Business owner,Personal,Approved
+SYN0324,25,2250056,2291299,727,Business owner,Medical,Approved
+SYN0325,47,1747975,406440,727,Salaried,Education,Approved
+SYN0326,62,1916118,1440817,721,Salaried,Personal,Rejected
+SYN0327,27,653585,317741,688,Salaried,Education,Pending
+SYN0328,49,1880535,1475131,606,Contract,Business,Pending
+SYN0329,30,343023,204891,546,Contract,Medical,Approved
+SYN0330,30,1548162,483832,773,Contract,Vehicle,Approved
+SYN0331,51,2077801,1947701,666,Salaried,Home,Rejected
+SYN0332,22,698700,222337,739,Contract,Medical,Rejected
+SYN0333,36,911657,497080,735,Self-employed,Education,Approved
+SYN0334,32,1899192,371968,677,Business owner,Personal,Rejected
+SYN0335,58,1870895,106307,719,Business owner,Home,Pending
+SYN0336,57,1024166,256647,794,Salaried,Vehicle,Approved
+SYN0337,63,1554512,1332006,665,Business owner,Personal,Approved
+SYN0338,60,1487574,405475,710,Self-employed,Vehicle,Pending
+SYN0339,28,1520856,245719,662,Self-employed,Education,Approved
+SYN0340,57,2014353,716371,617,Business owner,Medical,Approved
+SYN0341,32,2293707,442374,661,Self-employed,Vehicle,Approved
+SYN0342,21,812668,251297,755,Business owner,Business,Rejected
+SYN0343,62,1956033,1793280,672,Business owner,Business,Approved
+SYN0344,22,1465113,108941,621,Self-employed,Education,Approved
+SYN0345,50,2382475,169754,680,Business owner,Business,Rejected
+SYN0346,23,1156631,264782,770,Business owner,Medical,Pending
+SYN0347,36,375184,232754,707,Contract,Home,Rejected
+SYN0348,36,1710652,1845862,668,Self-employed,Education,Approved
+SYN0349,34,488964,329068,674,Self-employed,Medical,Approved
+SYN0350,39,1361318,2207612,769,Contract,Medical,Rejected
+SYN0351,27,1966359,1213179,712,Self-employed,Education,Rejected
+SYN0352,30,1278319,1468166,664,Contract,Education,Approved
+SYN0353,57,1977385,208369,600,Contract,Business,Approved
+SYN0354,38,2147131,1422750,590,Contract,Medical,Pending
+SYN0355,26,1742495,2291538,553,Business owner,Personal,Rejected
+SYN0356,38,1429475,656007,792,Contract,Personal,Approved
+SYN0357,42,432698,110238,838,Salaried,Personal,Approved
+SYN0358,21,1088584,326641,705,Business owner,Vehicle,Rejected
+SYN0359,31,631496,312552,773,Contract,Home,Approved
+SYN0360,46,1222070,145629,737,Contract,Home,Pending
+SYN0361,34,566898,109294,619,Business owner,Vehicle,Approved
+SYN0362,28,794382,290068,681,Business owner,Medical,Approved
+SYN0363,27,1554291,677583,762,Salaried,Education,Pending
+SYN0364,62,526939,54443,775,Self-employed,Education,Approved
+SYN0365,49,1133619,367454,768,Contract,Education,Approved
+SYN0366,26,827257,855373,646,Salaried,Personal,Approved
+SYN0367,41,1279291,138341,691,Self-employed,Vehicle,Pending
+SYN0368,65,1505209,686408,778,Salaried,Medical,Approved
+SYN0369,46,468879,300967,658,Contract,Business,Approved
+SYN0370,25,1754555,603576,691,Salaried,Business,Approved
+SYN0371,47,964651,203074,714,Contract,Home,Approved
+SYN0372,24,2364878,1100775,692,Business owner,Personal,Pending
+SYN0373,65,585727,613772,650,Business owner,Business,Approved
+SYN0374,34,1610490,188653,655,Self-employed,Personal,Approved
+SYN0375,36,1265422,277794,756,Salaried,Medical,Approved
+SYN0376,63,740980,67984,749,Self-employed,Education,Pending
+SYN0377,52,1327360,116548,689,Contract,Home,Pending
+SYN0378,22,2040717,183949,557,Contract,Business,Approved
+SYN0379,61,2320993,805234,811,Salaried,Education,Approved
+SYN0380,37,723744,316770,733,Salaried,Home,Approved
+SYN0381,36,2218724,364750,761,Salaried,Medical,Approved
+SYN0382,62,1181685,486476,838,Business owner,Vehicle,Rejected
+SYN0383,38,1803670,105230,740,Salaried,Personal,Rejected
+SYN0384,25,1424080,701580,796,Business owner,Business,Approved
+SYN0385,50,1787359,641194,712,Salaried,Vehicle,Approved
+SYN0386,58,1059661,1196217,585,Business owner,Education,Rejected
+SYN0387,30,1959816,333925,619,Salaried,Vehicle,Rejected
+SYN0388,21,1529793,327775,792,Business owner,Personal,Rejected
+SYN0389,52,837157,245091,735,Salaried,Personal,Rejected
+SYN0390,65,2162912,406106,702,Contract,Business,Approved
+SYN0391,29,553861,115308,536,Business owner,Vehicle,Approved
+SYN0392,41,1608398,335166,756,Business owner,Education,Approved
+SYN0393,29,891839,167851,625,Salaried,Education,Approved
+SYN0394,49,2183416,301476,704,Contract,Medical,Approved
+SYN0395,40,1141862,737433,751,Salaried,Personal,Rejected
+SYN0396,53,1493428,232313,772,Salaried,Personal,Approved
+SYN0397,49,637306,196583,706,Self-employed,Education,Rejected
+SYN0398,29,1920161,1371829,706,Self-employed,Home,Rejected
+SYN0399,58,554519,54225,720,Contract,Home,Rejected
+SYN0400,42,419081,103097,778,Salaried,Business,Approved
+SYN0401,48,2320904,408200,635,Business owner,Vehicle,Rejected
+SYN0402,38,863405,131156,717,Business owner,Medical,Approved
+SYN0403,39,1968020,2059201,738,Business owner,Education,Approved
+SYN0404,62,321914,459949,709,Self-employed,Personal,Rejected
+SYN0405,55,1682983,2157190,667,Business owner,Business,Approved
+SYN0406,35,1418317,297298,736,Salaried,Business,Approved
+SYN0407,35,659993,176433,677,Self-employed,Home,Rejected
+SYN0408,35,1728158,778601,809,Business owner,Business,Approved
+SYN0409,41,358306,234382,769,Contract,Education,Approved
+SYN0410,52,976338,144641,662,Contract,Business,Approved
+SYN0411,35,2244831,155625,710,Salaried,Vehicle,Approved
+SYN0412,24,859549,198533,634,Salaried,Business,Rejected
+SYN0413,44,1806953,1709248,639,Salaried,Education,Approved
+SYN0414,48,1570783,639275,659,Business owner,Business,Pending
+SYN0415,43,975478,358823,763,Self-employed,Business,Rejected
+SYN0416,46,1003706,513250,765,Salaried,Home,Approved
+SYN0417,52,1629021,1048227,657,Self-employed,Home,Pending
+SYN0418,63,2113301,159934,736,Contract,Home,Approved
+SYN0419,43,693129,100486,610,Contract,Personal,Rejected
+SYN0420,52,1713170,262711,759,Business owner,Business,Pending
+SYN0421,62,922230,85035,674,Self-employed,Home,Rejected
+SYN0422,42,1814784,128645,744,Self-employed,Home,Approved
+SYN0423,42,369994,136506,635,Business owner,Vehicle,Approved
+SYN0424,34,1956644,2315450,646,Self-employed,Vehicle,Approved
+SYN0425,40,642300,124943,618,Self-employed,Home,Approved
+SYN0426,48,1475429,2064643,666,Salaried,Home,Approved
+SYN0427,34,1463945,2036299,721,Self-employed,Personal,Approved
+SYN0428,63,622255,456351,643,Contract,Personal,Approved
+SYN0429,44,2109717,280550,644,Self-employed,Home,Approved
+SYN0430,30,599482,617750,700,Salaried,Business,Approved
+SYN0431,35,1863640,1805870,786,Salaried,Business,Rejected
+SYN0432,36,1493476,68207,668,Business owner,Business,Approved
+SYN0433,57,744498,991704,777,Self-employed,Education,Rejected
+SYN0434,29,2015763,408154,850,Salaried,Medical,Approved
+SYN0435,30,1581126,331068,760,Contract,Vehicle,Approved
+SYN0436,54,291857,376661,733,Business owner,Personal,Approved
+SYN0437,28,867645,102535,764,Business owner,Vehicle,Approved
+SYN0438,55,1963397,1068345,652,Contract,Personal,Approved
+SYN0439,23,1395170,892467,822,Self-employed,Education,Approved
+SYN0440,24,1366524,134862,722,Business owner,Vehicle,Approved
+SYN0441,40,2302000,461953,736,Contract,Medical,Approved
+SYN0442,49,1370029,1318733,681,Contract,Education,Pending
+SYN0443,49,1947796,2216363,770,Self-employed,Education,Approved
+SYN0444,25,2365653,1686861,600,Contract,Business,Rejected
+SYN0445,22,1048508,470954,715,Self-employed,Vehicle,Approved
+SYN0446,33,1784979,2168653,647,Contract,Home,Approved
+SYN0447,64,1254761,672899,534,Salaried,Business,Approved
+SYN0448,43,925825,592449,744,Contract,Medical,Pending
+SYN0449,26,355135,92705,758,Contract,Education,Approved
+SYN0450,62,1107092,479399,600,Self-employed,Medical,Approved
+SYN0451,21,794965,680343,704,Business owner,Vehicle,Pending
+SYN0452,62,2017574,1512592,646,Contract,Education,Approved
+SYN0453,50,1905778,65408,594,Contract,Vehicle,Rejected
+SYN0454,56,1491898,1060278,683,Contract,Vehicle,Approved
+SYN0455,61,1401339,795635,780,Contract,Business,Approved
+SYN0456,36,1934911,636906,662,Salaried,Medical,Pending
+SYN0457,52,1328112,1747010,676,Contract,Business,Rejected
+SYN0458,33,1172658,1388640,701,Contract,Medical,Rejected
+SYN0459,43,952975,1220731,702,Contract,Vehicle,Approved
+SYN0460,56,1647744,516099,716,Self-employed,Medical,Approved
+SYN0461,40,1629644,666669,658,Business owner,Medical,Approved
+SYN0462,58,2220632,2149154,697,Salaried,Medical,Approved
+SYN0463,45,1972697,129051,718,Contract,Business,Approved
+SYN0464,50,1567008,806471,723,Self-employed,Personal,Pending
+SYN0465,42,1554553,59884,647,Self-employed,Business,Rejected
+SYN0466,31,609272,163694,703,Business owner,Personal,Pending
+SYN0467,48,1847745,189927,709,Business owner,Vehicle,Approved
+SYN0468,54,315145,378564,749,Self-employed,Education,Pending
+SYN0469,65,1549009,251090,634,Contract,Home,Approved
+SYN0470,40,2152293,2248308,688,Contract,Medical,Approved
+SYN0471,29,2295958,445158,762,Contract,Home,Pending
+SYN0472,35,790316,61488,811,Self-employed,Education,Approved
+SYN0473,28,396713,217856,687,Contract,Home,Approved
+SYN0474,63,322802,53794,770,Salaried,Personal,Approved
+SYN0475,28,2229762,911908,659,Contract,Medical,Approved
+SYN0476,27,815305,160010,603,Contract,Business,Approved
+SYN0477,28,718203,571917,703,Contract,Business,Approved
+SYN0478,33,1958642,132639,731,Contract,Education,Approved
+SYN0479,65,1626652,63368,623,Business owner,Medical,Rejected
+SYN0480,52,617834,128693,565,Self-employed,Home,Rejected
+SYN0481,37,2155753,1291607,688,Self-employed,Home,Rejected
+SYN0482,39,1551588,293062,710,Contract,Home,Approved
+SYN0483,21,955180,508976,739,Self-employed,Vehicle,Pending
+SYN0484,42,717446,528715,675,Self-employed,Personal,Approved
+SYN0485,65,2008905,749520,766,Business owner,Education,Approved
+SYN0486,27,2264485,1887788,755,Business owner,Personal,Approved
+SYN0487,43,788008,561833,740,Salaried,Vehicle,Approved
+SYN0488,62,291842,325155,733,Contract,Business,Rejected
+SYN0489,57,1658935,1493347,681,Self-employed,Education,Pending
+SYN0490,51,1854289,635466,662,Contract,Business,Rejected
+SYN0491,24,898201,542085,768,Salaried,Personal,Approved
+SYN0492,41,1627873,261186,584,Self-employed,Business,Approved
+SYN0493,62,1931466,380639,576,Business owner,Personal,Approved
+SYN0494,49,737892,87264,719,Contract,Personal,Approved
+SYN0495,23,621243,699137,601,Salaried,Medical,Pending
+SYN0496,63,1669646,163823,586,Business owner,Personal,Rejected
+SYN0497,42,1763767,528248,768,Business owner,Vehicle,Approved
+SYN0498,61,1808209,242007,744,Contract,Personal,Rejected
+SYN0499,29,688629,152719,747,Business owner,Personal,Approved
+SYN0500,33,692002,98759,828,Contract,Medical,Rejected
